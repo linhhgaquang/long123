@@ -1,0 +1,30 @@
+Invalid procedure call or argument 
+  Time='05/12/20 13:20:33' App='WordToRQM:15.2.3042' ADO-version='10.0' Computer='LAPTOP-0LEL5D0M' 
+  Method: Connect.UpdateCustomTools 
+  Number: 5 = &H5 = vbObjectError + 2147221509 = ERRMAP_APP_FIRST + 2147216311 
+  Source: WordToRqm15 
+  Description: Invalid procedure call or argument
+  Call Stack: Connect.UpdateCustomTools(bNew={Nothing}) --------------------------------------------
+
+
+
+Invalid procedure call or argument 
+  Time='05/12/20 13:20:33' App='WordToRQM:15.2.3042' ADO-version='10.0' Computer='LAPTOP-0LEL5D0M' 
+  Method: Connect.AddReqButtons 
+  Number: 5 = &H5 = vbObjectError + 2147221509 = ERRMAP_APP_FIRST + 2147216311 
+  Source: WordToRqm15 
+  Description: Invalid procedure call or argument
+  Call Stack: Connect.AddReqButtons() --------------------------------------------------------------
+
+
+
+The requested member of the collection does not exist. 
+  Time='05/12/20 13:20:33' App='WordToRQM:15.2.3042' ADO-version='10.0' Computer='LAPTOP-0LEL5D0M' 
+  Method: Connect.AttachRqmDot 
+  Number: 5941 = &H1735 = vbObjectError + 2147227445 = ERRMAP_APP_FIRST + 2147222247 
+  Source: Microsoft Word 
+  Description: The requested member of the collection does not exist.
+  Call Stack: Connect.AttachRqmDot() ---------------------------------------------------------------
+
+
+
